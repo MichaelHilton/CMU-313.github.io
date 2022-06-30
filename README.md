@@ -3,11 +3,81 @@ Thanks to:
 ## Collaborators
 
 <!-- readme: collaborators -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/MichaelHilton">
+            <img src="https://avatars.githubusercontent.com/u/1170420?v=4" width="100;" alt="MichaelHilton"/>
+            <br />
+            <sub><b>Michael Hilton</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators -end -->
 
 ## Contributors
 
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/clegoues">
+            <img src="https://avatars.githubusercontent.com/u/2806090?v=4" width="100;" alt="clegoues"/>
+            <br />
+            <sub><b>Claire Le Goues</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/MichaelHilton">
+            <img src="https://avatars.githubusercontent.com/u/1170420?v=4" width="100;" alt="MichaelHilton"/>
+            <br />
+            <sub><b>Michael Hilton</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/rohanpadhye">
+            <img src="https://avatars.githubusercontent.com/u/4233266?v=4" width="100;" alt="rohanpadhye"/>
+            <br />
+            <sub><b>Rohan Padhye</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/cmeiklejohn">
+            <img src="https://avatars.githubusercontent.com/u/44939?v=4" width="100;" alt="cmeiklejohn"/>
+            <br />
+            <sub><b>Christopher S. Meiklejohn</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/namdy0429">
+            <img src="https://avatars.githubusercontent.com/u/6078004?v=4" width="100;" alt="namdy0429"/>
+            <br />
+            <sub><b>namdy0429</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/victorhuangwq">
+            <img src="https://avatars.githubusercontent.com/u/5773562?v=4" width="100;" alt="victorhuangwq"/>
+            <br />
+            <sub><b>Victor Huang</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/MilaHika">
+            <img src="https://avatars.githubusercontent.com/u/43727139?v=4" width="100;" alt="MilaHika"/>
+            <br />
+            <sub><b>MilaHika</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Hita-K">
+            <img src="https://avatars.githubusercontent.com/u/68398983?v=4" width="100;" alt="Hita-K"/>
+            <br />
+            <sub><b>Hita-K</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
 
 
